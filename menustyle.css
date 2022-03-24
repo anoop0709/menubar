@@ -134,7 +134,7 @@ body{
 
 }
 .toggle.active{
-    background: coral;
+    background: white;
     transform:translateX(230px);
     transition: 0.5s;
 }
